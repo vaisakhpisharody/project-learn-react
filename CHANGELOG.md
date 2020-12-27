@@ -1,3 +1,14 @@
+### [0.1.2](https://github.com/vaisakhpisharody/project-learn-react/tree/v0.1.2) (2020-12-27)
+
+#### Documentation Changes
+
+* **readme:**  add documentation for changelog [2cbddb8b](https://github.com/vaisakhpisharody/project-learn-react/commit/2cbddb8b)
+* **changelog:**  update changelog.md [8f50128c](https://github.com/vaisakhpisharody/project-learn-react/commit/8f50128c)
+
+#### Other Changes
+
+* **auto push:**  removing auto branch push [885ee478](https://github.com/vaisakhpisharody/project-learn-react/commit/885ee478)
+
 ### [0.1.1](https://github.com/vaisakhpisharody/project-learn-react/tree/v0.1.1) (2020-12-27)
 
 #### Bug Fixes
