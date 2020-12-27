@@ -23,9 +23,9 @@
     "release:major": "changelog -M",
     "release:minor": "changelog -m",
     "release:patch": "changelog -p",
-    "publish:major": "git add CHANGELOG.md && git commit -m \"docs(changelog): update CHANGELOG.md\" && npm version major && git push origin && git push origin --tags",
-    "publish:minor": "git add CHANGELOG.md && git commit -m \"docs(changelog): update CHANGELOG.md\" && npm version minor && git push origin && git push origin --tags",
-    "publish:patch": "git add CHANGELOG.md && git commit -m \"docs(changelog): update CHANGELOG.md\" && npm version patch && git push origin && git push origin --tags"
+    "publish:major": "git add CHANGELOG.md && git commit -m \"docs(changelog): update CHANGELOG.md\" && npm version major && git push origin --tags",
+    "publish:minor": "git add CHANGELOG.md && git commit -m \"docs(changelog): update CHANGELOG.md\" && npm version minor && git push origin --tags",
+    "publish:patch": "git add CHANGELOG.md && git commit -m \"docs(changelog): update CHANGELOG.md\" && npm version patch && git push origin --tags"
   },
   "eslintConfig": {
     "extends": [

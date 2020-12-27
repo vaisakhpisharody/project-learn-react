@@ -33,9 +33,10 @@ The CHANGELOG.md has to be manually edited before pushing the changes to remote.
         |  Patch Release  |         ####          |        ###          |
         |   Commit Type   |         #####         |        ####         |
         |      Topic      |         **            |        **           |
-        
-
-    
+- **Push once done**
+    - The script `release` would add the changelog history to the CHANGELOG.md file and the script `publish` would push to remote
+    - Please note that the script `publish` will only push the tags created (new version created)
+    - Once the tags are pushed, manually push the changes to your upstream branch (which should mostly be master?)      
 
 ## LICENSE
 
