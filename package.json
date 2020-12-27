@@ -20,12 +20,12 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "release:major": "changelog -M && git add CHANGELOG.md",
-    "release:minor": "changelog -m && git add CHANGELOG.md",
-    "release:patch": "changelog -p && git add CHANGELOG.md",
-    "publish:major": "git commit -m \"updated CHANGELOG.md\" && npm version major && git push origin && git push origin --tags",
-    "publish:minor": "git commit -m \"updated CHANGELOG.md\" && npm version minor && git push origin && git push origin --tags",
-    "publish:patch": "git commit -m \"updated CHANGELOG.md\" && npm version patch && git push origin && git push origin --tags"
+    "release:major": "changelog -M",
+    "release:minor": "changelog -m",
+    "release:patch": "changelog -p",
+    "publish:major": "git add CHANGELOG.md && git commit -m \"updated CHANGELOG.md\" && npm version major && git push origin && git push origin --tags",
+    "publish:minor": "git add CHANGELOG.md && git commit -m \"updated CHANGELOG.md\" && npm version minor && git push origin && git push origin --tags",
+    "publish:patch": "git add CHANGELOG.md && git commit -m \"updated CHANGELOG.md\" && npm version patch && git push origin && git push origin --tags"
   },
   "eslintConfig": {
     "extends": [
