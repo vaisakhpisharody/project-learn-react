@@ -1,22 +1,22 @@
-#### [0.1.1](https://github.com/vaisakhpisharody/project-learn-react/tree/v0.1.1) (2020-12-27)
+### [0.1.1](https://github.com/vaisakhpisharody/project-learn-react/tree/v0.1.1) (2020-12-27)
 
-##### Bug Fixes
+#### Bug Fixes
 
-* **changelog:**  modifying the script flow (https://github.com/vaisakhpisharody/project-learn-react/commit/d189ba3c)
+* **changelog:**  modifying the script flow [d189ba3c](https://github.com/vaisakhpisharody/project-learn-react/commit/d189ba3c)
 
-##### Other Changes
+#### Other Changes
 
-* **auto changelog:**  stopping auto changelogging (https://github.com/vaisakhpisharody/project-learn-react/commit/77940f87)
+* **auto changelog:**  stopping auto changelogging [77940f87](https://github.com/vaisakhpisharody/project-learn-react/commit/77940f87)
 
-### [0.1.0](https://github.com/vaisakhpisharody/project-learn-react/tree/v0.1.0) (2020-12-27)
+## [0.1.0](https://github.com/vaisakhpisharody/project-learn-react/tree/v0.1.0) (2020-12-27)
 
-##### Chores
+#### Chores
 
-* **scripts:**  add release scripts (https://github.com/vaisakhpisharody/project-learn-react/commit/93ae9c5d)
-* **code:**  initialize project codebase (https://github.com/vaisakhpisharody/project-learn-react/commit/98f33478)
-* **init:**  setup codebase (https://github.com/vaisakhpisharody/project-learn-react/commit/82043bfb)
+* **scripts:**  add release scripts [93ae9c5d](https://github.com/vaisakhpisharody/project-learn-react/commit/93ae9c5d)
+* **code:**  initialize project codebase [98f33478](https://github.com/vaisakhpisharody/project-learn-react/commit/98f33478)
+* **init:**  setup codebase [82043bfb](https://github.com/vaisakhpisharody/project-learn-react/commit/82043bfb)
 
-##### New Features
+#### New Features
 
-* **changelog:**  add changelog generator (https://github.com/vaisakhpisharody/project-learn-react/commit/9ab25434)
+* **changelog:**  add changelog generator [9ab25434](https://github.com/vaisakhpisharody/project-learn-react/commit/9ab25434)
 
