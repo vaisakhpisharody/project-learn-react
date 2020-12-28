@@ -1,6 +1,6 @@
 {
   "name": "project-learn-react",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "A sample UI Project to learn React and adding other awesome plugins",
   "private": true,
   "dependencies": {
