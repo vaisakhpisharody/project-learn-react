@@ -1,5 +1,8 @@
 # Project Learn React
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/83b0d8e4-9a7d-4d2c-986d-34485e1ebdb0/deploy-status)](https://app.netlify.com/sites/project-learn-react/deploys)
+[![](https://github.com/vaisakhpisharody/project-learn-react/workflows/CI_Tests/badge.svg)](https://github.com/vaisakhpisharody/project-learn-react/actions?query=workflow%3A%22CI_Tests%22)
+
 A sample UI Project to learn React and adding other awesome plugins
 
 > This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
